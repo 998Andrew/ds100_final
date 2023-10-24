@@ -8,6 +8,7 @@ The aim of this project is to develop and validate machine learning models using
 
 ## Description of Files
 Data100_Final_Project_Report.pdf: final report writeup
+
 Data100_Project.ipynb: jupyter notebook of code, including EDA, visualizations, developing, and validation of model
 
 ## Description of Data Source
